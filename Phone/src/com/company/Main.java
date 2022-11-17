@@ -6,6 +6,7 @@ public class Main {
         Phone firstPhone = new Phone();
         Phone secondPhone = new Phone();
         Phone thirdPhone = new Phone();
+
         firstPhone.setModel("Samsung");
         firstPhone.setNumber("89139738622");
         firstPhone.setWeight(500);
